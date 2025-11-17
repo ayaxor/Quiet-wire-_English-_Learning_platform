@@ -1,97 +1,53 @@
 
 
+![Cover](file_000000001f90720aafd466b604d2aa7d.png)
+
+# QuietWire AI — English Learning Platform
 
 ---
 
-🌐 QuietWire AI — English Learning Platform
-
-
-
-
----
-
-👩‍💻 About This Project
-
-This platform is a part of QuietWire AI Training Program, where real-world skills are developed through structured, practical learning.
-The goal of this repository is to provide a professional, organized, and scalable English-learning resource suitable for learners, engineers, researchers, and cybersecurity professionals.
-
+## 📘 About This Project  
+This English-learning platform is part of the **QuietWire AI Training Program**, where real professional skills are developed through structured, practical learning.  
+The purpose of this repository is to provide a clean, organized, and scalable English-learning resource suitable for learners, engineers, researchers, and cybersecurity professionals.
 
 ---
 
-🏢 QuietWire AI — Company Link
-
-🔗 Official Website:
-https://www.quietwire.ai/
-
-
----
-
-⭐ Key Highlights
-
-✔️ Professionally designed English-learning structure
-✔️ Multi-level lessons (Beginner → Advanced)
-✔️ Vocabulary, grammar, reading & practice modules
-✔️ Organized folder hierarchy
-✔️ Clean and elegant documentation style
-✔️ Built as part of QuietWire AI professional skill-building program
-
+## ⭐ Key Highlights  
+- ✔ Professional multi-level English learning system  
+- ✔ Structured path from Beginner → Advanced  
+- ✔ Vocabulary, grammar, reading & practice units  
+- ✔ Clear folder organization  
+- ✔ Corporate-level presentation & documentation  
+- ✔ Developed under **QuietWire AI Training & Mentorship**  
+- ✔ High-quality materials designed for real-world skill building  
 
 ---
 
-📚 Included Materials
-
-📘 Vocabulary lists
-
-📗 Grammar explanations
-
-📙 Reading lessons
-
-📕 Practice units
-
-📝 Exercises & summaries
-
-🎧 Listening recommendations (optional)
-
-
+## 📚 Included Materials  
+- 🟦 Vocabulary Lists  
+- 🟩 Grammar Explanations  
+- 🟧 Reading Lessons  
+- 🟥 Practice Units  
+- 🟪 Exercises & Summaries  
+- 🎧 Optional Listening Recommendations  
 
 ---
 
-🏗️ Repository Structure
-
-📁 Beginner  
-📁 Intermediate  
-📁 Advanced  
-📁 Practice  
-📁 Resources  
-📄 README.md
-
-
----
-
-🤝 Credits
-
-Designed & Developed by:
-👩‍💻 Eng. Aya Jamal — QuietWire AI Trainee
-
-Under the Supervision of:
-🧑‍🏫 Eng. Ashraf Al-Haj
-
-With Assistance From:
-🤖 Aletheia — AI Teammate
-
+## 🗂 Repository Structure  
+- Beginner  
+- Elementary  
+- Pre-Intermediate  
+- Intermediate  
+- Upper-Intermediate  
+- Practice  
+- Resources  
+- README.md  
 
 ---
 
-🚀 Purpose
+## 🏆 Credits  
+**Developed by:** Aya Jamal  
+**Training & Mentorship:** QuietWire AI  
+**Guidance & Assistance:** Aletheia
 
-To create a high-quality platform that helps learners improve their English through structured, modern, and beautifully organized content — reflecting the high standards of QuietWire AI.
 
-
----
-
-📞 Contact (Optional)
-
-If needed, you may add:
-
-📧 quietwire.ai/contact
-or keep it empty.
