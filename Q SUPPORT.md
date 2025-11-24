@@ -9,3 +9,5 @@ For support related to:
 
 Please contact your assigned QuietWire mentor.
 
+
+📧 Official Contact: aya@quietwire.ai
