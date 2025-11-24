@@ -9,3 +9,5 @@ If you find an error or issue:
 
 This repository does not contain real security tools or executable code.
 
+
+📧 Official Contact: aya@quietwire.ai
