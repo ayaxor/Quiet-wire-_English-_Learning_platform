@@ -11,3 +11,5 @@ All learners and contributors must follow these rules:
 
 Violations may result in restricted participation.
 
+
+📧 Official Contact: aya@quietwire.ai
